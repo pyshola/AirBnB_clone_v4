@@ -76,6 +76,10 @@ div:hover > .popover {
     list-style: none;
 }
 
+.popover input {
+    margin-right: 10px;
+}
+
 .filters .locations ul {
     padding: 0.5em 0 1em 1em;
   }
@@ -87,6 +91,4 @@ div:hover > .popover {
 .filters .amenities ul {
     padding: 2em 0 2em 3em;
   }
-
-
   
